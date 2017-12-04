@@ -1,0 +1,17 @@
+{
+  "itemName" : "blueprintscanneraddon",
+
+  "shortdescription" : "Scanner Addon",
+  "description" : "Enables your Scanner to output a blueprint of scanned objects.",
+
+  "rarity" : "Legendary",
+  "category" : "Tool",
+  "price" : 20,
+
+  "tooltipKind" : "mm",
+  "largeImage" : "/items/tools/inspectiontool/scanmodelarge.png",
+  "inventoryIcon" : "/items/tools/inspectiontool/scanmode.png",
+
+  "pickupQuestTemplates" : ["learnblueprintonscan"],
+  "consumeOnPickup" : true
+}

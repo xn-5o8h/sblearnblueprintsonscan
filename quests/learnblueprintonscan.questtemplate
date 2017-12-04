@@ -1,0 +1,15 @@
+{
+  "id": "learnblueprintonscan",
+  "title": "^gray;Learn blueprints on scan.",
+  "text": "aaa",
+  "completionText": "^red;how",
+  "moneyRange": [0, 0],
+
+  "invisible" : true,
+  "logOnly" : true,
+
+  "script": "/quests/scripts/learnblueprintonscan.lua",
+  "scriptConfig": {
+    "portraits" : { "default" : "player" }
+  }
+}

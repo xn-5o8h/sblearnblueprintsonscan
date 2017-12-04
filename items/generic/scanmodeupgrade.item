@@ -1,0 +1,17 @@
+{
+  "itemName" : "scanmodeupgrade",
+  
+  "shortdescription" : "Scan mode upgrade",
+  "description" : "Describe things in the world and scan objects for printing.",
+
+  "rarity" : "Legendary",
+  "category" : "Tool",
+  "price" : 10,
+
+  "tooltipKind" : "mm",
+  "largeImage" : "/items/tools/inspectiontool/scanmodelarge.png",
+  "inventoryIcon" : "/items/tools/inspectiontool/scanmode.png",
+
+  "pickupQuestTemplates" : ["givescanmode"],
+  "consumeOnPickup" : true
+}

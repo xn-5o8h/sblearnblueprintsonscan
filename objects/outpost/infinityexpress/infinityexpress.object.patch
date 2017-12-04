@@ -1,0 +1,4 @@
+[
+   { "op": "add", "path": "/interactData/items/-", "value": { "item": "blueprintscanneraddon" } },
+   { "op": "add", "path": "/interactData/items/-", "value": { "item": "scanmodeupgrade" } }
+]

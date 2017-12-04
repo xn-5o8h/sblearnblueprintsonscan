@@ -1,0 +1,8 @@
+{
+  "description" : "Learn blueprints when scanning objects. Should be compatible with anything that adds items and/or recipes. \n[h1][b]Update[/b]: Now require you to buy the addon at the outpost's Infinity Express.[/h1]\nYou can also buy the scanmode update for fresh characters, althought S.A.I.L. isn't happy about your waste of resources.\n\n\nNote that not all vanilla objects have blueprints tied to them, and that it makes it extremely easy to learn blueprints of eg. the lunar base.\n\nCommunity forums link: http://community.playstarbound.com/resources/learn-blueprints-on-scan.4577/\n\n[strike]one day I'll make clean mod icons[/strike]\n2017-03-20 update:\nNow require you to buy the addon at the Infinity Express.\nThe reason behind this is because the massive quest patch would cause a freeze whenever interacting with a quest, probably because of it referencing non-vanilla species, that might not be installed for everyone, or just because of the size of it. Thanks to Mooncalf99 for reporting the issue!",
+  "friendlyName" : "Learn Blueprints on Scan",
+  "link" : "steam://url/CommunityFilePage/879213535",
+  "name" : "learnblueprintsonscan",
+  "steamContentId" : "879213535",
+  "version" : "2"
+}

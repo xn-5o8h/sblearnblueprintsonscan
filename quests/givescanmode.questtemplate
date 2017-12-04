@@ -1,0 +1,15 @@
+{
+  "id": "givescanmode",
+  "title": "Gives scanmode.",
+  "text": "",
+  "completionText": "",
+  "moneyRange": [0, 0],
+
+  "invisible" : true,
+  "logOnly" : true,
+
+  "script": "/quests/scripts/givescanmode.lua",
+  "scriptConfig": {
+    "portraits" : { "default" : "sail" }
+  }
+}
